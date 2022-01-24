@@ -42,7 +42,7 @@ After revising the data, a comparison of the initial and final data sets was per
 ![screenshot of test scores aggregated by type of school](screenshots/type_performance_initial.png)
 
 ## Summary
-Several changes occurred to the data after the reading and math scores for the ninth grade students of Thomas High School were replaced.  First,...
+Overall, the changes caused by the deletion of academically dishonest data were minor and did not have any affect when looking at the district data or the aggregate school data as a whole.  However, several minor changes did occur to the data after the reading and math scores for the ninth grade students of Thomas High School were replaced and these should be noted.  First,...
 
 
  
