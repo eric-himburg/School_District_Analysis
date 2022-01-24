@@ -22,7 +22,7 @@ After revising the data, a comparison of the initial and final data sets was per
 
 ![screenshot of the top five schools based on test scores](screenshots/top_5_schools_initial.png)
 
-* Math and reading scores by grade - of the fifteen schools evaluated, only the scores by grade data of Thomas High School was affected.  Once again, this makes sense as it was the only school where numbers were deleted.  In the screenshots below, it can be seen that the ninth grade students of Thomas High School intially have data and then in the next screenshot where the data is removed and replace by nan (not a number) values. 
+* Math and reading scores by grade - of the fifteen schools evaluated, only the scores by grade data of Thomas High School was affected.  Once again, this makes sense as it was the only school where numbers were deleted.  In the screenshots below, it can be seen that the ninth grade students of Thomas High School intially have data and then in the next screenshot when the data has been removed the ninth grade students have a nan (not a number) value. 
 
 ![screenshot of math scores by grade level initially](screenshots/math_performance_by_grade_initial.png)
 
