@@ -32,13 +32,14 @@ After revising the data, a comparison of the initial and final data sets was per
 
 ![screenshot of test scores aggregated by amount spent per student](screenshots/budget_performance_initial.png)
 
-* Scores by school size - similar to the scores by school pending, there is no change to the scores compared to school size.  Once again, since the performance of Thomas High School was only slightly affected, its affect on the group of schools as a whole was negligible.  A screenshot below shows the student scores compared to school size.
+* Scores by school size - similar to the scores by school spending, there is no change to the scores compared to school size.  Once again, since the performance of Thomas High School was only slightly affected, its affect on the group of schools as a whole was negligible.  A screenshot below shows the student scores compared to school size.
 
 ![screenshot of test scores aggregated by school size](screenshots/size_performance_initial.png)
 
 
-* Scores by school type
+* Scores by school type - there is no change to the scores by school type.  As before, the deletion of data had little affect on Thomas High School and hence had negligible affect on all of the schools' combined data.  Below is a screenshot showing student test score perfomance when separated by public or charter schools.  
 
+![screenshot of test scores aggregated by type of school](screenshots/type_performance_initial.png)
 
 ## Summary
 Several changes occurred to the data after the reading and math scores for the ninth grade students of Thomas High School were replaced.  First,...
