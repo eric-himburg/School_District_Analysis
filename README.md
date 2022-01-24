@@ -6,8 +6,9 @@ After the analysis was completed it was discovered that some of the data had bee
 
 ## Results
 After revising the data, a comparison of the initial and final data sets was performed to see how each of the seven school district metrics was affected.  Below is a bulleted summary of the changes.
-* Affect on District Summary
-![screenshot of the district summary](screenshots/VBA_Challenge_2017.png)
+* Affect on District Summary - there is only one minor change to the data.  The average math scores of the district were lowered from 79.0 to 78.9.  The screenshots below show the initial and final district summaries.  
+![screenshot of the initial district summary](screenshots/district summary initial.png)
+![screenshot of the final district summary](screenshots/district summary final.png)
 * Affect on School Summary
 * Affect on Thomas High School
 * Math and reading scores by grade
