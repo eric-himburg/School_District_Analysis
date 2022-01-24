@@ -18,7 +18,8 @@ After revising the data, a comparison of the initial and final data sets was per
  
 ![screenshot of the final school summary](screenshots/school_summary_final.png)
 
-* Affect on Thomas High School
+* Affect on Thomas High School - 
+
 * Math and reading scores by grade
 * Scores by school spending
 * Scores by school size
