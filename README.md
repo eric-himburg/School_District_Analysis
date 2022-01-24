@@ -42,8 +42,7 @@ After revising the data, a comparison of the initial and final data sets was per
 ![screenshot of test scores aggregated by type of school](screenshots/type_performance_initial.png)
 
 ## Summary
-Overall, the changes caused by the deletion of academically dishonest data were minor and did not have any affect when looking at the district data or the aggregate school data as a whole.  However, several minor changes did occur to the data after the reading and math scores for the ninth grade students of Thomas High School were replaced and these should be noted.  First,...
+Overall, the changes caused by the deletion of academically dishonest data were minor and did not have any affect when looking at the aggregate school data as a whole.  However, several minor changes did occur to the data after the reading and math scores for the ninth grade students of Thomas High School were replaced and these should be noted.  First, the average math score of the district was lowered by a tenth of a point.  Second, reading scores for the ninth grade students of Thomas High School have been replaced by nan values.  Third, math scores for the ninth grade students of Thomas High School have been replaced by nan values.  Fourth, both the average math and reading scores of Thomas High School as a whole have been slightly changed due to the deletion of data.  No other school data was affected by the deletion.   
 
 
  
-
