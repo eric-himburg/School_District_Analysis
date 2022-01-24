@@ -18,7 +18,9 @@ After revising the data, a comparison of the initial and final data sets was per
  
 ![screenshot of the final school summary](screenshots/school_summary_final.png)
 
-* Affect on Thomas High School - 
+* Affect on Thomas High School - while there were slight changes to the test scores of Thomas High School, the deletion of the ninth grade data did not affect its ranking when compared to other schools.  Thomas High School was the second best school in the district both before and after removal of the data.  A screenshot showing the the top five school rankings is below.
+
+![screenshot of the top five schools based on test scores](screenshots/top_5_schools_initial.png)
 
 * Math and reading scores by grade
 * Scores by school spending
