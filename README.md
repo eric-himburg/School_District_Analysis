@@ -30,9 +30,13 @@ After revising the data, a comparison of the initial and final data sets was per
 
 * Scores by school spending - because the deletion of the ninth grade student scores had a very small affect on the overall perfomance of Thomas High School, there was no change to the scores aggregated by school spending.  A screenshot below shows this data, which was unaffected by the data deletion.
 
-![screenshot of math scores by grade level after data is removed](screenshots/budget_performance_initial.png)
+![screenshot of test scores aggregated by amount spent per student](screenshots/budget_performance_initial.png)
 
-* Scores by school size
+* Scores by school size - similar to the scores by school pending, there is no change to the scores compared to school size.  Once again, since the performance of Thomas High School was only slightly affected, its affect on the group of schools as a whole was negligible.  A screenshot below shows the student scores compared to school size.
+
+![screenshot of test scores aggregated by school size](screenshots/size_performance_initial.png)
+
+
 * Scores by school type
 
 
