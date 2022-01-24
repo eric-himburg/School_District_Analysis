@@ -12,7 +12,7 @@ After revising the data, a comparison of the initial and final data sets was per
  
 ![screenshot of the final district summary](screenshots/district_summary_final.png)
  
-* Affect on School Summary - of the fifteen schools evaluated, only the data of Thomas High School was affected.  This makes sense as it was the only school where numbers were deleted.  Specifically, the average math and reading scores changed slightly, lowering a little bit.  The screenshots below show the initial and final school summaries and how no other school besided Thomas High School was affected.
+* Affect on School Summary - of the fifteen schools evaluated, only the data of Thomas High School was affected.  This makes sense as it was the only school where numbers were deleted.  Specifically, the average math and reading scores changed slightly, one lowering and one raising a little bit, respectively.  The screenshots below show the initial and final school summaries and how no other school besided Thomas High School was affected.
 
 ![screenshot of the initial school summary](screenshots/school_summary_initial.png)
  
